@@ -8,7 +8,7 @@
 
 **HotelBooking** is a modern, responsive hotel booking frontend website built with [React](https://react.dev/), [Vite](https://vitejs.dev/), and [TailwindCSS](https://tailwindcss.com/). This project demonstrates core React concepts (components, context API, hooks), advanced UI/UX with custom components, a mobile-friendly layout, and integration with third-party React libraries. It is designed both as a learning resource and a practical template for static hotel or accommodation websites.
 
-- **Live Demo:** [https://hotel-booking-arnob.netlify.app](https://hotel-booking-arnob.netlify.app)
+- **Live Demo:** [bookinghotelcom.netlify.app](bookinghotelcom.netlify.app)
 
 ---
 
